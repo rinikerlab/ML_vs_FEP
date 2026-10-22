@@ -1,0 +1,26 @@
+nohup: ignoring input
+Start: 2026-05-11 02:07:26
+Setup complete. Now running Grid Search... | Elapsed: 0.00s
+Precomputing fps for ptp1b | Elapsed: 0.00s
+Precomputing fps for cmet | Elapsed: 54.97s
+Precomputing fps for pde10 | Elapsed: 109.31s
+Precomputing fps for jnk1 | Elapsed: 157.65s
+Precomputing fps for eg5 | Elapsed: 214.94s
+Precomputing fps for hif2a | Elapsed: 266.63s
+Precomputing fps for cdk8 | Elapsed: 320.77s
+Precomputing fps for shp2 | Elapsed: 373.64s
+Precomputing fps for bace | Elapsed: 426.58s
+Precomputing fps for ros1 | Elapsed: 481.35s
+Precomputing fps for tyk2 | Elapsed: 536.03s
+Precomputing fps for syk | Elapsed: 596.48s
+Precomputing fps for cdk2 | Elapsed: 649.03s
+Precomputing fps for tnks2 | Elapsed: 708.24s
+Precomputing fps for p38 | Elapsed: 765.17s
+Precomputing fps for pfkfb3 | Elapsed: 817.43s
+Precomputing fps for hunt | Elapsed: 869.06s
+Precomputing fps for mcl1 | Elapsed: 924.14s
+Precomputing fps for pde2 | Elapsed: 977.18s
+End: 2026-05-11 02:24:42
+
+
+Finished | Elapsed: 1036.78s

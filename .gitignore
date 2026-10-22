@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+
+# run artefacts
+logs/
+run_stdout.txt

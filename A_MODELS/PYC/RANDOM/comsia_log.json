@@ -1,0 +1,135 @@
+[
+  {
+    "target": "cdk2",
+    "column_filter": 0.001,
+    "grid_resolution": 1,
+    "sdf_file": "../../../0_DATA/COMPOUNDS/PER_TARGET_SDF/cdk2/cdk2.sdf",
+    "status": "success"
+  },
+  {
+    "target": "cmet",
+    "column_filter": 0.001,
+    "grid_resolution": 1,
+    "sdf_file": "../../../0_DATA/COMPOUNDS/PER_TARGET_SDF/cmet/cmet.sdf",
+    "status": "success"
+  },
+  {
+    "target": "cdk8",
+    "column_filter": 0.001,
+    "grid_resolution": 1,
+    "sdf_file": "../../../0_DATA/COMPOUNDS/PER_TARGET_SDF/cdk8/cdk8.sdf",
+    "status": "success"
+  },
+  {
+    "target": "eg5",
+    "column_filter": 0.001,
+    "grid_resolution": 1,
+    "sdf_file": "../../../0_DATA/COMPOUNDS/PER_TARGET_SDF/eg5/eg5.sdf",
+    "status": "success"
+  },
+  {
+    "target": "bace",
+    "column_filter": 0.001,
+    "grid_resolution": 1,
+    "sdf_file": "../../../0_DATA/COMPOUNDS/PER_TARGET_SDF/bace/bace.sdf",
+    "status": "success"
+  },
+  {
+    "target": "hif2a",
+    "column_filter": 0.001,
+    "grid_resolution": 1,
+    "sdf_file": "../../../0_DATA/COMPOUNDS/PER_TARGET_SDF/hif2a/hif2a.sdf",
+    "status": "success"
+  },
+  {
+    "target": "hunt",
+    "column_filter": 0.001,
+    "grid_resolution": 1,
+    "sdf_file": "../../../0_DATA/COMPOUNDS/PER_TARGET_SDF/hunt/hunt.sdf",
+    "status": "success"
+  },
+  {
+    "target": "jnk1",
+    "column_filter": 0.001,
+    "grid_resolution": 1,
+    "sdf_file": "../../../0_DATA/COMPOUNDS/PER_TARGET_SDF/jnk1/jnk1.sdf",
+    "status": "success"
+  },
+  {
+    "target": "pde2",
+    "column_filter": 0.001,
+    "grid_resolution": 1,
+    "sdf_file": "../../../0_DATA/COMPOUNDS/PER_TARGET_SDF/pde2/pde2.sdf",
+    "status": "success"
+  },
+  {
+    "target": "mcl1",
+    "column_filter": 0.001,
+    "grid_resolution": 1,
+    "sdf_file": "../../../0_DATA/COMPOUNDS/PER_TARGET_SDF/mcl1/mcl1.sdf",
+    "status": "success"
+  },
+  {
+    "target": "p38",
+    "column_filter": 0.001,
+    "grid_resolution": 1,
+    "sdf_file": "../../../0_DATA/COMPOUNDS/PER_TARGET_SDF/p38/p38.sdf",
+    "status": "success"
+  },
+  {
+    "target": "pde10",
+    "column_filter": 0.001,
+    "grid_resolution": 1,
+    "sdf_file": "../../../0_DATA/COMPOUNDS/PER_TARGET_SDF/pde10/pde10.sdf",
+    "status": "success"
+  },
+  {
+    "target": "ptp1b",
+    "column_filter": 0.001,
+    "grid_resolution": 1,
+    "sdf_file": "../../../0_DATA/COMPOUNDS/PER_TARGET_SDF/ptp1b/ptp1b.sdf",
+    "status": "success"
+  },
+  {
+    "target": "ros1",
+    "column_filter": 0.001,
+    "grid_resolution": 1,
+    "sdf_file": "../../../0_DATA/COMPOUNDS/PER_TARGET_SDF/ros1/ros1.sdf",
+    "status": "success"
+  },
+  {
+    "target": "pfkfb3",
+    "column_filter": 0.001,
+    "grid_resolution": 1,
+    "sdf_file": "../../../0_DATA/COMPOUNDS/PER_TARGET_SDF/pfkfb3/pfkfb3.sdf",
+    "status": "success"
+  },
+  {
+    "target": "tyk2",
+    "column_filter": 0.001,
+    "grid_resolution": 1,
+    "sdf_file": "../../../0_DATA/COMPOUNDS/PER_TARGET_SDF/tyk2/tyk2.sdf",
+    "status": "success"
+  },
+  {
+    "target": "shp2",
+    "column_filter": 0.001,
+    "grid_resolution": 1,
+    "sdf_file": "../../../0_DATA/COMPOUNDS/PER_TARGET_SDF/shp2/shp2.sdf",
+    "status": "success"
+  },
+  {
+    "target": "tnks2",
+    "column_filter": 0.001,
+    "grid_resolution": 1,
+    "sdf_file": "../../../0_DATA/COMPOUNDS/PER_TARGET_SDF/tnks2/tnks2.sdf",
+    "status": "success"
+  },
+  {
+    "target": "syk",
+    "column_filter": 0.001,
+    "grid_resolution": 1,
+    "sdf_file": "../../../0_DATA/COMPOUNDS/PER_TARGET_SDF/syk/syk.sdf",
+    "status": "success"
+  }
+]

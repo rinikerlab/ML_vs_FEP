@@ -1,0 +1,3 @@
+""""
+Copyright (C) 2025 ETH Zurich, Stefan J.P. Chrin, Gregory Landrum, Sereina Riniker
+"""
