@@ -1,6 +1,6 @@
 # Basic Machine Learning vs. FEP: A Comparative Analysis for Protein-Ligand Binding Affinity Prediction
 
-This repository accompanies the publication *"Basic Machine Learning vs. FEP: A Comparative Analysis for Protein-Ligand Binding Affinity Prediction"* (DOI: XXX )
+This repository accompanies the publication *"Basic Machine Learning vs. FEP: A Comparative Analysis for Protein-Ligand Binding Affinity Prediction"* (DOI: 10.26434/chemrxiv.15011290/v1 )
 
 **Authors:** Stefan Chrin, Dr. Gregory Landrum, Prof. Dr. Sereina Riniker
 
